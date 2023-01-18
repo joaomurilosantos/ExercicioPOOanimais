@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\bin\Debug\net6.0\ReinoAnimal.exe
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\bin\Debug\net6.0\ReinoAnimal.deps.json
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\bin\Debug\net6.0\ReinoAnimal.runtimeconfig.json
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\bin\Debug\net6.0\ReinoAnimal.dll
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\bin\Debug\net6.0\ReinoAnimal.pdb
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\net6.0\ReinoAnimal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\net6.0\ReinoAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\net6.0\ReinoAnimal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\net6.0\ReinoAnimal.AssemblyInfo.cs
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\net6.0\ReinoAnimal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\net6.0\ReinoAnimal.dll
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\net6.0\refint\ReinoAnimal.dll
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\net6.0\ReinoAnimal.pdb
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\net6.0\ReinoAnimal.genruntimeconfig.cache
+C:\Users\User\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\net6.0\ref\ReinoAnimal.dll
